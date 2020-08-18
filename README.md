@@ -1,2 +1,1 @@
-# JavaScript
-JavaScript文档
+README
